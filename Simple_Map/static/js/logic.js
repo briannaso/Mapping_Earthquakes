@@ -10,7 +10,7 @@ L.circle([34.0522, -118.2437], {
     color: 'black',
     fillColor: 'yellow',
     fillOpacity: 0.1,
-    radius: 300
+    radius: 600
  }).addTo(map);
 
 // We create the tile layer that will be the background of our map.
