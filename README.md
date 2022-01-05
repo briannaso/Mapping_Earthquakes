@@ -1,1 +1,7 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
+---- 
+## Project Overview
+
+## Results
+
+## Summary
